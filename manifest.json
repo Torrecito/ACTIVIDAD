@@ -1,0 +1,29 @@
+{
+    "name": "Blog_personal",
+    "short_name": "CV",
+    "description": "Es un blog un perosnal, sobre mis actividades y hobbies",
+    "background_color": "#D35400;",
+    "theme_color": "#B5C4E3",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/index",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "imagenes/yo.jpeg",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "imagenes/lago.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "imagenes/cer.jpeg",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+
+    ]
+  }
